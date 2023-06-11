@@ -22,20 +22,7 @@ export default function Featured({type}) {
             oldPrice: 24,
             price: 20,
         },
-        // {
-        //     id:3,
-        //     img: "https://images.pexels.com/photos/2343661/pexels-photo-2343661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        //     title: "Wpants",
-        //     oldPrice: 13,
-        //     price: 11,
-        // },
-        // {
-        //     id:3,
-        //     img: "https://images.pexels.com/photos/1758144/pexels-photo-1758144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        //     title: "Wshorts",
-        //     oldPrice: 12,
-        //     price: 11,
-        // },
+       
         {
             id:3,
             img: "https://images.pexels.com/photos/11441880/pexels-photo-11441880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
